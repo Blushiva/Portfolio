@@ -1,0 +1,7 @@
+/* sets a consistent box model, defines font family, and sets margin and padding to 0 */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "outfit", Arial, Helvetica, sans-serif;
+}
