@@ -1,5 +1,5 @@
 # Portfolio
-
+A portfolio app that is built in React
 
 # USER STORY
 
