@@ -53,14 +53,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [How to Build a Portfolio in React](https://www.youtube.com/watch?v=YQCDUJ6hhNY)
 
+# Available Scripts
 
-
-## Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-# Available Scripts
 
 In the project directory, you can run:
 
