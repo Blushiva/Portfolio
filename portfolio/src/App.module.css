@@ -1,0 +1,11 @@
+/* imports from the vars.css file */
+@import "./vars.css";
+
+/* CSS rule insures it occupies its full width and height of parent container*/
+/* creates a consistent look and feel across the entire application */
+.App {
+    background-color: var(--color-background);
+    width: 100%;
+    height: 100%;
+
+}
