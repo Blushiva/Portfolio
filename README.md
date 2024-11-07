@@ -80,7 +80,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
-### Getting Started On Assignment
+## Getting Started On Assignment
 
 The application that you built for this module will help you know where to start when building your portfolio. You’ll use Create Vite just as you did with your module project, but you should be aware of a few structural differences in the component hierarchy. Your portfolio should include the following:
 
