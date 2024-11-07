@@ -36,7 +36,9 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 # Table of Contents
-[User Sory]()
+[User Story]()
+
+[Acceptence Criteria]()
 
 [Table of Contents]()
 
