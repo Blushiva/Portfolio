@@ -37,8 +37,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # Table of Contents
 [User Sory]()
+
 [Table of Contents]()
+
 [Resources]()
+
 [Available Scripts]()
 
 
