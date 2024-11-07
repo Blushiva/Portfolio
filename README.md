@@ -42,11 +42,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 [How to Build a Portfolio in React](https://www.youtube.com/watch?v=YQCDUJ6hhNY)
 
 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -68,7 +69,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Getting Started
+
+### Getting Started On Assignment
 
 The application that you built for this module will help you know where to start when building your portfolio. You’ll use Create Vite just as you did with your module project, but you should be aware of a few structural differences in the component hierarchy. Your portfolio should include the following:
 
