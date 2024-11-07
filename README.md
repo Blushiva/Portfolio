@@ -36,15 +36,15 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 # Table of Contents
-[User Story]()
+[User Story](https://github.com/Blushiva/Portfolio/tree/main#user-story)
 
-[Acceptence Criteria]()
+[Acceptence Criteria](https://github.com/Blushiva/Portfolio/tree/main#accepence-criteria)
 
-[Table of Contents]()
+[Table of Contents](https://github.com/Blushiva/Portfolio/tree/main?tab=readme-ov-file#table-of-contents)
 
-[Resources]()
+[Resources](https://github.com/Blushiva/Portfolio/tree/main?tab=readme-ov-file#resources)
 
-[Available Scripts]()
+[Available Scripts](https://github.com/Blushiva/Portfolio/tree/main?tab=readme-ov-file#available-scripts)
 
 
 # Resources
