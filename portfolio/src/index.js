@@ -1,9 +1,11 @@
-// imports the app components
+// imports the react library
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+
+//applies styles to app
+import 'portfolio/src/index.css';
+import App from 'portfolio/src/App.jsx';
+import reportWebVitals from 'portfolio/src/reportWebVitals';
 
 // Importing fonts
 import "@fontsource/outfit";  
@@ -13,7 +15,7 @@ import "@fontsource/roboto";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <App/>
   </React.StrictMode>
 );
 

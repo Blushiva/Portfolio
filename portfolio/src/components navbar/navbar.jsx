@@ -1,11 +1,12 @@
-import React, {usestate} from 'react';
+import React, {useState} from 'react';
 
+//scoped locally to Navbar prevents style conflicts
 import styles from "portfolio/src/components navbar/navbar.module.css";
-import { getImageUrl } from 'portfolio/src/utils.js';
+import { getImageUrl } from 'portfolio/public/utils.js';
 
 export const Navbar = () => {
     return (
-    <nav className= {StyleSheet.Navbar}>
+    <nav className= {styles.Navbar}>
         <a className={styles.title}
         href="/">Portfolio
         </a>
